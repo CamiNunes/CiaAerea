@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WUVflXgLpZp8vtc8gdRaf6XPqumiihQZDwMphGfhrzGvnPWJ43O/ihGO5D4wPywIiN8wowNyl/r9bbV6kt6ouw==",
+  "dgSpecHash": "0nDZ7QVP/XOHYG4IfSp4BAXXEJ+VdegVCftVJdVoxIUyVyUi06o3bBGkY0/7CfounwsODzMfTrld13GtFzZfSw==",
   "success": true,
-  "projectFilePath": "R:\\dese.git\\CiaAerea\\CiaAerea.csproj",
+  "projectFilePath": "r:\\dese.git\\CiaAerea\\CiaAerea.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuário\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Usuário\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
