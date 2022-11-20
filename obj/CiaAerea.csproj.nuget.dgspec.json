@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "R:\\dese.git\\CiaAerea\\CiaAerea.csproj": {}
+    "r:\\dese.git\\CiaAerea\\CiaAerea.csproj": {}
   },
   "projects": {
-    "R:\\dese.git\\CiaAerea\\CiaAerea.csproj": {
+    "r:\\dese.git\\CiaAerea\\CiaAerea.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "R:\\dese.git\\CiaAerea\\CiaAerea.csproj",
+        "projectUniqueName": "r:\\dese.git\\CiaAerea\\CiaAerea.csproj",
         "projectName": "CiaAerea",
-        "projectPath": "R:\\dese.git\\CiaAerea\\CiaAerea.csproj",
+        "projectPath": "r:\\dese.git\\CiaAerea\\CiaAerea.csproj",
         "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
-        "outputPath": "R:\\dese.git\\CiaAerea\\obj\\",
+        "outputPath": "r:\\dese.git\\CiaAerea\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

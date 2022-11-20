@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o3I2THddL6PgDyyBtYfpwI+2G/Iy/GEtxRD1ND4T/NljeTXAq6HMFj5Y7GH/UguoGw10P3YGk9U/LnTYRhDO3g==",
+  "dgSpecHash": "XEdq0TsxycIysWwi+q8lLSN2IpkRuFfC/YVsxDTcj0I5yCh3AbROdx4lcGgMJPyoqPKwFw1xLtLAcRe449jO2A==",
   "success": true,
-  "projectFilePath": "R:\\dese.git\\CiaAerea\\CiaAerea.csproj",
+  "projectFilePath": "r:\\dese.git\\CiaAerea\\CiaAerea.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuário\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Usuário\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
