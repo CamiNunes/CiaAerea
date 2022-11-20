@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "r:\\dese.git\\CiaAerea\\CiaAerea.csproj": {}
+    "R:\\dese.git\\CiaAerea\\CiaAerea.csproj": {}
   },
   "projects": {
-    "r:\\dese.git\\CiaAerea\\CiaAerea.csproj": {
+    "R:\\dese.git\\CiaAerea\\CiaAerea.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "r:\\dese.git\\CiaAerea\\CiaAerea.csproj",
+        "projectUniqueName": "R:\\dese.git\\CiaAerea\\CiaAerea.csproj",
         "projectName": "CiaAerea",
-        "projectPath": "r:\\dese.git\\CiaAerea\\CiaAerea.csproj",
+        "projectPath": "R:\\dese.git\\CiaAerea\\CiaAerea.csproj",
         "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
-        "outputPath": "r:\\dese.git\\CiaAerea\\obj\\",
+        "outputPath": "R:\\dese.git\\CiaAerea\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -46,6 +46,12 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[6.0.3, )"
