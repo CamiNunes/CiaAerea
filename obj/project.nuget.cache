@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "XEdq0TsxycIysWwi+q8lLSN2IpkRuFfC/YVsxDTcj0I5yCh3AbROdx4lcGgMJPyoqPKwFw1xLtLAcRe449jO2A==",
+  "dgSpecHash": "xd5RI+/+N9XHjbwwTE9QDWDrgjtQ1D5u+zenxXhe8V3a1kER/cVOLRsUrp2XpwB0T9+6ms5TLlTNzGgP/SOxzA==",
   "success": true,
-  "projectFilePath": "r:\\dese.git\\CiaAerea\\CiaAerea.csproj",
+  "projectFilePath": "R:\\dese.git\\CiaAerea\\CiaAerea.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Usuário\\.nuget\\packages\\fluentvalidation\\11.3.0\\fluentvalidation.11.3.0.nupkg.sha512",
     "C:\\Users\\Usuário\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Usuário\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Usuário\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
