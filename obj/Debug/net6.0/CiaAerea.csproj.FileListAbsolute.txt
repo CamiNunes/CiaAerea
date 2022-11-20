@@ -32,9 +32,11 @@ r:\dese.git\CiaAerea\bin\Debug\net6.0\CiaAerea.deps.json
 r:\dese.git\CiaAerea\bin\Debug\net6.0\CiaAerea.runtimeconfig.json
 R:\dese.git\CiaAerea\bin\Debug\net6.0\CiaAerea.dll
 R:\dese.git\CiaAerea\bin\Debug\net6.0\CiaAerea.pdb
+R:\dese.git\CiaAerea\bin\Debug\net6.0\Humanizer.dll
 R:\dese.git\CiaAerea\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 R:\dese.git\CiaAerea\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
 R:\dese.git\CiaAerea\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+R:\dese.git\CiaAerea\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
 R:\dese.git\CiaAerea\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
 R:\dese.git\CiaAerea\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 R:\dese.git\CiaAerea\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
@@ -84,5 +86,3 @@ R:\dese.git\CiaAerea\obj\Debug\net6.0\refint\CiaAerea.dll
 R:\dese.git\CiaAerea\obj\Debug\net6.0\CiaAerea.pdb
 r:\dese.git\CiaAerea\obj\Debug\net6.0\CiaAerea.genruntimeconfig.cache
 r:\dese.git\CiaAerea\obj\Debug\net6.0\ref\CiaAerea.dll
-R:\dese.git\CiaAerea\bin\Debug\net6.0\Humanizer.dll
-R:\dese.git\CiaAerea\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
