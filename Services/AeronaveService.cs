@@ -13,7 +13,11 @@ namespace CiaAerea.Services
         private readonly AtualizarAeronaveValidator _atualizarAeronaveValidator;
         private readonly ExcluirAeronaveValidator _excluirAeronaveValidator;
 
-        public AeronaveService(CiaAereaContext context, AdicionarAeronaveValidator adicionarAeronaveValidator, AtualizarAeronaveValidator atualizarAeronaveValidator, ExcluirAeronaveValidator excluirAeronaveValidator)
+        public AeronaveService( CiaAereaContext context, 
+                                AdicionarAeronaveValidator adicionarAeronaveValidator, 
+                                AtualizarAeronaveValidator atualizarAeronaveValidator, 
+                                ExcluirAeronaveValidator excluirAeronaveValidator
+                            )
         {
             _context = context;
             _adicionarAeronaveValidator = adicionarAeronaveValidator;

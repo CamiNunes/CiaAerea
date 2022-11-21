@@ -32,6 +32,7 @@ r:\dese.git\CiaAerea\bin\Debug\net6.0\CiaAerea.deps.json
 r:\dese.git\CiaAerea\bin\Debug\net6.0\CiaAerea.runtimeconfig.json
 R:\dese.git\CiaAerea\bin\Debug\net6.0\CiaAerea.dll
 R:\dese.git\CiaAerea\bin\Debug\net6.0\CiaAerea.pdb
+R:\dese.git\CiaAerea\bin\Debug\net6.0\DinkToPdf.dll
 R:\dese.git\CiaAerea\bin\Debug\net6.0\FluentValidation.dll
 R:\dese.git\CiaAerea\bin\Debug\net6.0\Humanizer.dll
 R:\dese.git\CiaAerea\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll

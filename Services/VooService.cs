@@ -4,6 +4,7 @@ using CiaAerea.Entities;
 using CiaAerea.Validators.Cancelamento;
 using CiaAerea.Validators.Voo;
 using CiaAerea.ViewModels;
+using CiaAerea.ViewModels.Aeronave;
 using CiaAerea.ViewModels.Cancelamento;
 using CiaAerea.ViewModels.Piloto;
 using CiaAerea.ViewModels.Voo;
