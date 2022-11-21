@@ -27,6 +27,9 @@ C:\Users\Camila\CiaAerea\obj\Debug\net6.0\CiaAerea.genruntimeconfig.cache
 C:\Users\Camila\CiaAerea\obj\Debug\net6.0\ref\CiaAerea.dll
 R:\dese.git\CiaAerea\bin\Debug\net6.0\appsettings.Development.json
 R:\dese.git\CiaAerea\bin\Debug\net6.0\appsettings.json
+R:\dese.git\CiaAerea\bin\Debug\net6.0\libwkhtmltox.dll
+R:\dese.git\CiaAerea\bin\Debug\net6.0\libwkhtmltox.dylib
+R:\dese.git\CiaAerea\bin\Debug\net6.0\libwkhtmltox.so
 R:\dese.git\CiaAerea\bin\Debug\net6.0\CiaAerea.exe
 r:\dese.git\CiaAerea\bin\Debug\net6.0\CiaAerea.deps.json
 r:\dese.git\CiaAerea\bin\Debug\net6.0\CiaAerea.runtimeconfig.json
